@@ -4,6 +4,8 @@ craigspaterson/craigspaterson is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+[!["Buy Me A Coffee"](https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-im-on-kmIZ4lx2ZHpr5jY0W4)](https://www.buymeacoffee.com/craigspaterson){:target="_blank"}
+
 - 👋 Hi, I’m @craigspaterson
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
