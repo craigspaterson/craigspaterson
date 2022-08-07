@@ -4,9 +4,6 @@ craigspaterson/craigspaterson is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Buy Me A Coffee](https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif)](https://www.buymeacoffee.com/craigspaterson)
-
-
 ```mermaid
  classDiagram
       Animal <|-- Duck
@@ -33,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Buy Me A Coffee](https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif)](https://www.buymeacoffee.com/craigspaterson)
+
