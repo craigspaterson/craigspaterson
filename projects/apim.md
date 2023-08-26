@@ -4,7 +4,7 @@
 
 #### Azure API Management (APIM) Solution
 
-**Company XYZ, Solution Architect, Jan 2022 - Present**
+**Cognizant, Solution Architect, April 2016 - Present**
 
 - **Infrastructure as Code (IaC) with Terraform**
   * Engineered a fully automated IaC solution using Terraform to provision and manage Azure API Management service, virtual networks, and other related services, ensuring consistent and repeatable deployments.
